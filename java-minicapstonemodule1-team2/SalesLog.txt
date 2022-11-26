@@ -1,0 +1,5 @@
+   DATE          TIME         ACTION  AMOUNT  BALANCE
+2022-10-10 08:53:09.2573014 Feed Money 35.0 35.0 
+2022-10-10 08:53:18.3256532  Bought Cloud Popcorn 3.65 31.35 
+2022-10-10 08:53:20.3800356 Exit/Get change 31.35 0.0 
+2022-10-10 08:53:23.7198043 Exit/Get change 0.0 0.0 
